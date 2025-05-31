@@ -45,6 +45,7 @@ W o r l d
 
 Spaced Logger – Error:
 ERROR: W o r l d
+```
 
 ---
 
