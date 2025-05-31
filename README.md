@@ -12,9 +12,6 @@ objectOrientedProgramming/
 ├── SpacedLogger.java
 └── Logger.java
 
-yaml
-Copy
-Edit
 
 - `Logger.java`: Interface that defines two methods — `log(String message)` and `error(String message)`.
 - `AsteriskLogger.java`: Implementation of `Logger` that wraps messages in asterisks and outputs boxed error messages.
