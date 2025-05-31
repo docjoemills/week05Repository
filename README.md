@@ -50,6 +50,7 @@ ERROR: W o r l d
 ---
 
 # 🚀 How to Run
+
 Clone or download the project into your local development environment.
 
 Open it in your Java IDE (e.g., Eclipse, IntelliJ, VS Code with Java extension).
@@ -58,7 +59,8 @@ Compile and run App.java.
 
 Observe the formatted output from both logger classes in the console.
 
-🛠️ Possible Enhancements
+# 🛠️ Possible Enhancements
+
 Add a FileLogger that writes logs to a text file.
 
 Implement log levels (INFO, WARN, ERROR).
@@ -68,6 +70,7 @@ Add a timestamp to each log message.
 Refactor with Java's Logger framework for real-world extensibility.
 
 # 📚 Educational Value
+
 This project is ideal for beginners learning:
 
 How to define and implement interfaces
@@ -77,13 +80,9 @@ The basics of Java class structures and method overriding
 How to abstract behavior and apply OOP principles in practice
 
 # 👨‍💻 Author
+
 Created by [Your Name Here] as part of the Promineo Tech Java Backend Development course.
 
 # 📝 License
+
 This project is open-source and free to use for educational purposes.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to include screenshots, a UML diagram, or convert this into a GitHub-friendly format with badges and contribution instructions.
