@@ -6,18 +6,18 @@ This Java project demonstrates basic principles of **object-oriented programming
 
 ## 📦 Project Structure
 
+```
 objectOrientedProgramming/
 ├── App.java
 ├── AsteriskLogger.java
 ├── SpacedLogger.java
 └── Logger.java
-
+```
 
 - `Logger.java`: Interface that defines two methods — `log(String message)` and `error(String message)`.
 - `AsteriskLogger.java`: Implementation of `Logger` that wraps messages in asterisks and outputs boxed error messages.
 - `SpacedLogger.java`: Implementation of `Logger` that inserts spaces between each character.
 - `App.java`: Contains the `main` method that tests both logger implementations.
-
 ---
 
 ## 💡 Key OOP Concepts Demonstrated
