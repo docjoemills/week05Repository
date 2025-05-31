@@ -45,6 +45,9 @@ W o r l d
 
 Spaced Logger – Error:
 ERROR: W o r l d
+
+---
+
 🚀 How to Run
 Clone or download the project into your local development environment.
 
