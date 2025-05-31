@@ -49,7 +49,7 @@ ERROR: W o r l d
 
 ---
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 Clone or download the project into your local development environment.
 
@@ -59,7 +59,11 @@ Compile and run App.java.
 
 Observe the formatted output from both logger classes in the console.
 
-# 🛠️ Possible Enhancements
+## 🔗 Live Demo
+
+Please see this video demonstrating the code in action: https://youtu.be/oEprqGHfwA4
+
+## 🛠️ Possible Enhancements
 
 Add a FileLogger that writes logs to a text file.
 
@@ -69,7 +73,7 @@ Add a timestamp to each log message.
 
 Refactor with Java's Logger framework for real-world extensibility.
 
-# 📚 Educational Value
+## 📚 Educational Value
 
 This project is ideal for beginners learning:
 
@@ -79,11 +83,11 @@ The basics of Java class structures and method overriding
 
 How to abstract behavior and apply OOP principles in practice
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-Created by Joe Mills as part of the Promineo Tech Java Backend Development course.
+Created by Joe Mills as part of the Promineo Tech Backend Software Development course.
 
-# 📝 License
+## 📝 License
 
 This project is open-source and free to use for educational purposes.
 
