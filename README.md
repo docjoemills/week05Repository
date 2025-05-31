@@ -81,8 +81,12 @@ How to abstract behavior and apply OOP principles in practice
 
 # 👨‍💻 Author
 
-Created by [Your Name Here] as part of the Promineo Tech Java Backend Development course.
+Created by Joe Mills as part of the Promineo Tech Java Backend Development course.
 
 # 📝 License
 
 This project is open-source and free to use for educational purposes.
+
+## 📬 Contact
+
+- **GitHub**: [https://github.com/docjoemills](https://github.com/docjoemills)  
